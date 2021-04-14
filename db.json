@@ -2,7 +2,7 @@
   "sandbox": [
     {
       "id": 1,
-      "customerid": "4E99C4D3-0E15-4BD8-9857-BE054189018D",
+      "userid": "4E99C4D3-0E15-4BD8-9857-BE054189018D",
       "items": [
         {
           "name": "widgets",
@@ -23,7 +23,7 @@
     },
     {
       "id": 2,
-      "customerid": "940CB1D0-94A5-4430-90F6-ACD0F126201A",
+      "userid": "940CB1D0-94A5-4430-90F6-ACD0F126201A",
       "items": [
         {
           "name": "whatsits",
@@ -46,7 +46,7 @@
   "customer1": [
     {
       "id": 123,
-      "customerid": "FF2ACAB7-E168-4E1A-9B70-C4AB691EE212",
+      "userid": "FF2ACAB7-E168-4E1A-9B70-C4AB691EE212",
       "items": [
         {
           "name": "widgets",
@@ -62,7 +62,7 @@
     },
     {
       "id": 124,
-      "customerid": "8178E020-E96D-4320-8115-9970D829E013",
+      "userid": "8178E020-E96D-4320-8115-9970D829E013",
       "items": [
         {
           "name": "gizmos",
@@ -75,7 +75,7 @@
   "customer2": [
     {
       "id": 555,
-      "customerid": "E5E93494-2F23-4C3C-8920-D8EE78F8CB74",
+      "userid": "E5E93494-2F23-4C3C-8920-D8EE78F8CB74",
       "items": [
         {
           "name": "gadgets",
@@ -86,7 +86,7 @@
     },
     {
       "id": 556,
-      "customerid": "EA96A677-1F9F-47EF-AE9F-8063AD830596",
+      "userid": "EA96A677-1F9F-47EF-AE9F-8063AD830596",
       "items": [
         {
           "name": "gizmos",
@@ -97,7 +97,7 @@
     },
     {
       "id": 557,
-      "customerid": "80AFE321-D72A-4B7D-9828-C1AD7159B5D2",
+      "userid": "80AFE321-D72A-4B7D-9828-C1AD7159B5D2",
       "items": [
         {
           "name": "whosits",
